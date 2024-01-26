@@ -1,6 +1,3 @@
-# Nadav Hen
-
-
 Currently a master student at [WIS](https://www.weizmann.ac.il/)
 
 ## Publications
