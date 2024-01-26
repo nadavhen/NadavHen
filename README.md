@@ -1,9 +1,6 @@
 # Nadav Hen
 
 
-ma
-Master student at WIS
-
 Synthetic biology of Plants and Bacteria
 
 ## Publications
