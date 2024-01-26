@@ -1,7 +1,7 @@
 # Nadav Hen
 
 
-Synthetic biology of Plants and Bacteria
+Currently a master student at [WIS](https://www.weizmann.ac.il/)
 
 ## Publications
 
