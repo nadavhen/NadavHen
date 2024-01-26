@@ -1,7 +1,7 @@
 
 theme: jekyll-theme-minimal
-
 title: Nadav Hen
+title_align: center
 description: Synthetic biology of Plants and Bacteria
 show_downloads: false
 logo: logo.png
